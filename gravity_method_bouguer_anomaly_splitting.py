@@ -7,11 +7,11 @@ from scipy.interpolate import griddata,interp2d,Rbf
 from scipy.fft import fft, ifft
 from scipy import stats
 
-#1) Data Collection
+#1) DATA COLLECTION
 
 df = pd.read_csv(r"C:\Users\xboxm\vs_workspace\github_projects\gravity_anomaly_splitting\data_grav.csv")
 
-#2) Data Preparation
+#2) DATA PREPARATION
 
 y = df.LATITUDE
 x = df.LONGITUDE
