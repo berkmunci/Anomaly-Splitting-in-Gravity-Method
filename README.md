@@ -2,7 +2,7 @@
 ## Project Target:
 In gravity method which is a geophysical survey, Anomaly splitting operations for a slice that taken from bouguer anomaly map of UK. 
 ## Required Data for satisfy project target: 
-for each point: Longitude, latitude, elevation (m), bouguer anomaly values.
+For each point: Longitude, latitude, elevation (m), bouguer anomaly values.
 ## Desired Outputs: 
 Observation of residual and regional anomally values that are splitted from bouger anomaly of slice.
 ## Project Phases:
