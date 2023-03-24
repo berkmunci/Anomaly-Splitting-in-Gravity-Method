@@ -26,5 +26,6 @@ Observation of residual and regional anomally values that are splitted from boug
   ![output6](https://user-images.githubusercontent.com/114949587/225303384-937f0271-8958-4488-8372-d9056fc07fbd.png)
 - Manipulated data is fitted with 2 lines.<br/>
   ![output7](https://user-images.githubusercontent.com/114949587/225303432-18d9a63a-65c9-4ba7-9fd1-cea8823dbd76.png)
-- Splitted data is made and desired output is created.<br/>
+- Splitted data is made and desired output. <br/>
   ![output8](https://user-images.githubusercontent.com/114949587/225303483-a80f7290-3695-43df-bad1-195c3a9309af.png)
+  Bouguer anomaly is sum of regional and residual anomalies. Regional anomalies give us informations about higher depths and residual anomalies give information about lower depths. Theese anomailes help us to define structures and layers of a region.
