@@ -1,0 +1,6 @@
+matplotlib==3.5.2
+numpy==1.21.6
+pandas==1.4.4
+scipy==1.7.3
+tqdm==4.64.1
+utm==0.7.0
